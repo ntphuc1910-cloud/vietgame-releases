@@ -1,0 +1,83 @@
+﻿VIETGAME - ĐIỀU KHOẢN SỬ DỤNG (GIẤY PHÉP PHẦN MỀM MIỄN PHÍ)
+VIETGAME - END USER LICENSE AGREEMENT (FREEWARE)
+
+Bản quyền (c) 2026 Phúc Nguyễn (PhucNguyen). Mọi quyền được bảo lưu.
+Copyright (c) 2026 Phuc Nguyen (PhucNguyen). All rights reserved.
+
+-------------------------------------------------------------------------------
+TIẾNG VIỆT
+-------------------------------------------------------------------------------
+
+1. Phạm vi. Điều khoản này áp dụng cho phần mềm VietGame (ứng dụng máy tính, ứng dụng
+   TV đi kèm và trình cài đặt), TRỪ các thành phần của bên thứ ba được liệt kê trong
+   tệp THIRD_PARTY_NOTICES.md. Các thành phần đó tuân theo giấy phép riêng của chúng
+   (ví dụ vg-chiaki theo GNU AGPL-3.0, VieNeu-TTS theo Apache-2.0). Không điều nào ở
+   đây hạn chế quyền mà các giấy phép đó trao cho bạn.
+
+2. Quyền sử dụng. Bạn được cài đặt và sử dụng VietGame miễn phí cho mục đích cá nhân,
+   phi thương mại, trên số máy tùy ý.
+
+3. Phân phối. Bạn được chia sẻ nguyên vẹn bộ cài chính thức (không sửa đổi) và phải
+   kèm theo các tệp giấy phép. Không được bán, cho thuê, hoặc phân phối bản đã sửa đổi
+   của phần VietGame khi chưa có sự đồng ý bằng văn bản của tác giả.
+
+4. Hạn chế. Ngoài phạm vi pháp luật cho phép và ngoài các thành phần mã nguồn mở nêu
+   ở mục 1, bạn không được dịch ngược, sửa đổi, hoặc tạo sản phẩm phái sinh từ phần
+   VietGame.
+
+5. Dịch vụ bên ngoài. VietGame có thể gửi chữ nhận dạng từ màn hình tới dịch vụ AI
+   (Google Gemini, Groq) bằng khóa API do CHÍNH BẠN cung cấp, và (nếu bạn bật) chia sẻ
+   bản dịch lên kho phụ đề dùng chung. Bạn tự chịu trách nhiệm tuân thủ điều khoản của
+   các dịch vụ đó. Ảnh màn hình và khóa API của bạn không được gửi cho tác giả.
+
+6. Nội dung game. Bạn chịu trách nhiệm về việc sử dụng phụ đề, lời thoại và hình ảnh
+   từ trò chơi mà bạn sở hữu. VietGame không cung cấp, không bán nội dung game.
+
+7. Nhãn hiệu. "PlayStation", "PS5" là nhãn hiệu của Sony Interactive Entertainment;
+   "LG" và "webOS" là nhãn hiệu của LG Electronics. VietGame là dự án độc lập, không
+   liên kết, không được tài trợ hay xác nhận bởi các công ty này.
+
+8. Không bảo hành. PHẦN MỀM ĐƯỢC CUNG CẤP "NGUYÊN TRẠNG", KHÔNG KÈM BẤT KỲ BẢO ĐẢM
+   NÀO. TÁC GIẢ KHÔNG CHỊU TRÁCH NHIỆM VỀ BẤT KỲ THIỆT HẠI NÀO PHÁT SINH TỪ VIỆC SỬ
+   DỤNG PHẦN MỀM, TRONG PHẠM VI TỐI ĐA PHÁP LUẬT CHO PHÉP.
+
+9. Chấm dứt. Quyền sử dụng tự chấm dứt nếu bạn vi phạm các điều khoản trên.
+
+-------------------------------------------------------------------------------
+ENGLISH
+-------------------------------------------------------------------------------
+
+1. Scope. These terms cover the VietGame software (desktop app, companion TV app and
+   installer), EXCEPT the third-party components listed in THIRD_PARTY_NOTICES.md.
+   Those components are governed by their own licenses (e.g. vg-chiaki under GNU
+   AGPL-3.0, VieNeu-TTS under Apache-2.0). Nothing here limits the rights those
+   licenses grant you.
+
+2. Use. You may install and use VietGame free of charge for personal, non-commercial
+   purposes on any number of computers.
+
+3. Distribution. You may share the unmodified official installer, together with its
+   license files. You may not sell, rent, or distribute modified versions of the
+   VietGame portions without the author's written permission.
+
+4. Restrictions. Except as permitted by law and except for the open-source components
+   in section 1, you may not reverse engineer, modify, or create derivative works of the
+   VietGame portions.
+
+5. External services. VietGame may send on-screen text recognized by OCR to AI services
+   (Google Gemini, Groq) using API keys YOU provide, and (if you enable it) share
+   translations to the shared subtitle library. You are responsible for complying with
+   those services' terms. Your screenshots and API keys are not sent to the author.
+
+6. Game content. You are responsible for your use of subtitles, dialogue and images from
+   games you own. VietGame does not supply or sell game content.
+
+7. Trademarks. "PlayStation" and "PS5" are trademarks of Sony Interactive Entertainment;
+   "LG" and "webOS" are trademarks of LG Electronics. VietGame is an independent project
+   and is not affiliated with, sponsored or endorsed by these companies.
+
+8. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE
+   MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DAMAGES
+   ARISING FROM THE USE OF THE SOFTWARE.
+
+9. Termination. Your rights terminate automatically if you breach these terms.
