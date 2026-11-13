@@ -100,6 +100,21 @@ toàn văn giấy phép của từng gói nằm trong thư mục `node_modules/<
 
 ---
 
+## 3b. Bản Android / Android app
+
+| Thành phần | Giấy phép |
+|---|---|
+| Capacitor (Ionic) | MIT |
+| @capawesome/capacitor-nodejs, Node.js for Mobile Apps | MIT |
+| Node.js | MIT (kèm giấy phép các thành phần của Node.js) |
+| vg-chiaki cho Android (`libvgchiaki.so`) | AGPL-3.0 — mã nguồn: https://github.com/ntphuc1910-cloud/vg-chiaki (quy trình `build-vg-chiaki-android.yml`) |
+| OpenSSL, json-c, miniupnpc, curl, nanopb, Jerasure, GF-Complete (liên kết tĩnh trong vg-chiaki Android) | Apache-2.0, MIT, BSD-3-Clause, curl, zlib, BSD-3-Clause |
+| Giọng đọc: TextToSpeech của Android (dịch vụ có sẵn trên máy) | Theo điều khoản của nhà cung cấp giọng đọc trên máy |
+
+Toàn văn giấy phép trong app Android: mục `legal/` đi kèm giao diện.
+
+---
+
 ## 4. Dịch vụ trực tuyến (không đi kèm, chỉ kết nối) / Online services (not bundled)
 
 - Google Gemini API, Groq API: người dùng tự nhập khóa API của mình và chịu điều khoản của nhà cung cấp.
