@@ -59,7 +59,7 @@ Their sources are available from the MSYS2 package repositories listed above.
 
 ---
 
-## 2. Giọng đọc VieNeu-TTS (bản CPU đóng gói sẵn) / VieNeu-TTS voice engine
+## 2. Giọng đọc VieNeu-TTS (tải và cài riêng trong app khi người dùng chọn) / VieNeu-TTS voice engine (optional, installed on demand)
 
 | Thành phần | Nguồn | Giấy phép |
 |---|---|---|
@@ -69,7 +69,7 @@ Their sources are available from the MSYS2 package repositories listed above.
 | sea-g2p (chuyển chữ sang âm vị) | https://pypi.org/project/sea-g2p/ | Apache-2.0 |
 | Python 3.12 (python-build-standalone) | Python Software Foundation / Astral | PSF-2.0 (kèm `python/LICENSE.txt`) |
 | uv | https://github.com/astral-sh/uv — Astral | MIT OR Apache-2.0 |
-| Các gói Python khác (onnxruntime, numpy, gradio, librosa, …) | PyPI | Xem `vieneu/THIRD_PARTY_PYTHON.txt` và thư mục `*.dist-info` của từng gói |
+| Các gói Python khác (onnxruntime, numpy, gradio, librosa, …) | PyPI | Xem thư mục `*.dist-info` của từng gói trong thư mục cài VieNeu |
 
 Theo yêu cầu của tác giả VieNeu-TTS: không dùng tính năng nhân bản giọng để giả mạo người thật khi
 chưa được phép, lừa đảo hoặc tạo nội dung sai lệch. Giọng mẫu có sẵn được phép dùng cho nội dung thương mại.
